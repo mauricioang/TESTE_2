@@ -1,5 +1,5 @@
-# TESTE_2
-TESTE 2 - APRENDENDO GIT
+# Repositório TESTE_2
+# APRENDENDO GIT
 
 Várias alterações.
 
