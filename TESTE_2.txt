@@ -3,3 +3,4 @@ Mercado
 2. Batatas
 3. Cebola
 4. Pepino
+5. Abacaxi
